@@ -1,0 +1,7 @@
+Welcome to Rock,Paper and Scissor Game !
+Game rules are:
+1) in the conflict of rock and paper - paper wins
+2) in the conflict of paper and scissor - scissor wins
+3) in the conflict of rock and scissor - rock wins
+
+You have to win 2 rounds in order to win the match.

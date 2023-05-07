@@ -1,0 +1,5 @@
+A computer virus is a type of computer program that,when executed,
+replicates itself by modifying other computer programs and inserting its 
+own code.If this replication succeeds, the affected areas are then said to
+be "infected" with a computer virus, a metaphor derived from biological
+viruses.

@@ -1,0 +1,9 @@
+AA  ccoommppuutteerr  vviirruuss  iiss  aa  ttyyppee  ooff  ccoommppuutteerr  pprrooggrraamm  tthhaatt,,wwhheenn  eexxeeccuutteedd,,
+
+rreepplliiccaatteess  iittsseellff  bbyy  mmooddiiffyyiinngg  ootthheerr  ccoommppuutteerr  pprrooggrraammss  aanndd  iinnsseerrttiinngg  iittss  
+
+oowwnn  ccooddee..IIff  tthhiiss  rreepplliiccaattiioonn  ssuucccceeeeddss,,  tthhee  aaffffeecctteedd  aarreeaass  aarree  tthheenn  ssaaiidd  ttoo
+
+bbee  ""iinnffeecctteedd""  wwiitthh  aa  ccoommppuutteerr  vviirruuss,,  aa  mmeettaapphhoorr  ddeerriivveedd  ffrroomm  bbiioollooggiiccaall
+
+vviirruusseess..
